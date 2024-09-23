@@ -4,7 +4,7 @@
   "description": "Shopify Remix  Vite Cloudflare - to simplify the building of Shopify Apps with Remix Vite and Cloudflare",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/shopify-app-js.git"
+    "url": "git+https://github.com/CloudSolutionsUG/shopify-app-remix-cloudflare-ready.git"
   },
   "bugs": {
     "url": "https://github.com/Shopify/shopify-app-js/issues"
